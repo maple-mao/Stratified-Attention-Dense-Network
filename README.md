@@ -21,7 +21,6 @@ Attention Dense Module
 1.Download DIV2K training data(800 training + 100 validation images) from  [DIV2K dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
 
 ### Begin to train
-1.(option) Download pretrained models for our paper.
 
 **Example command is in the file 'demo.txt'.**
 ```bash
@@ -34,7 +33,7 @@ python main.py --train_GT_path F:/ARDN/DataSet/DIV2K_train_HR --train_LR_path F:
 
 1. (optional) Download pretrained models for our paper.
 
-    The Trained x2 models can be downloaded from [Google Drive]()
+    The Trained x2 models can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1PAsqKaOb3q2A5V_Izv7UuVJKJaHswwmw)
 2. Run the following scripts.
 **Example command is in the file 'demo.txt'.**
 ```bash
